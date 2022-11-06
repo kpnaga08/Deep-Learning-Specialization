@@ -12,4 +12,4 @@ This repository contains all my work for this specialization. All the code base,
   - Week 4 - Deep Neural Networks
   
   
-  **[Certificate](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)**  <br />
+  **[Certificate](https://coursera.org/share/c497afc30b46afe3b04191c57f4ae455)**  <br />
