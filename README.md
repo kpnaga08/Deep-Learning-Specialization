@@ -1,4 +1,4 @@
-# Deep-Learning-Specialization
+# Deep-Learning-Specialization![certificate](Coursera5V3YYAATH2SU.png)
 
 
 This repository contains all my work for this specialization. All the code base, quiz questions, and images, are taken from, unless specified,  [Deep Learning Specialization - Coursera (2022)](https://www.coursera.org/specializations/deep-learning)
@@ -12,4 +12,4 @@ This repository contains all my work for this specialization. All the code base,
   - Week 4 - Deep Neural Networks
   
   
-  **[Certificate](https://coursera.org/share/c497afc30b46afe3b04191c57f4ae455)**  <br />
+ 
